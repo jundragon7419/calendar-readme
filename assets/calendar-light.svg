@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="978" height="580" viewBox="0 0 978 580" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Malgun Gothic&#x27;, &#x27;Apple SD Gothic Neo&#x27;, &#x27;Noto Sans KR&#x27;, Helvetica, Arial, sans-serif">
 <rect width="978" height="580" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <text x="20" y="38" font-size="20" font-weight="700" fill="#1f2328">2026년 9월</text>
-<text x="958" y="38" font-size="11" text-anchor="end" fill="#59636e">갱신 09-08 23:57 KST</text>
+<text x="958" y="38" font-size="11" text-anchor="end" fill="#59636e">갱신 09-09 03:29 KST</text>
 <text x="87" y="76" font-size="12" font-weight="600" text-anchor="middle" fill="#59636e">월</text>
 <text x="221" y="76" font-size="12" font-weight="600" text-anchor="middle" fill="#59636e">화</text>
 <text x="355" y="76" font-size="12" font-weight="600" text-anchor="middle" fill="#59636e">수</text>
@@ -46,12 +46,12 @@
 <text x="32" y="200" font-size="13" font-weight="500" fill="#1f2328">7</text>
 </g>
 <g opacity="1">
-<rect x="156" y="180" width="130" height="88" rx="8" fill="#ddf4ff" stroke="#0969da"/>
-<text x="166" y="200" font-size="13" font-weight="700" fill="#1f2328">8</text>
+<rect x="156" y="180" width="130" height="88" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="166" y="200" font-size="13" font-weight="500" fill="#1f2328">8</text>
 </g>
 <g opacity="1">
-<rect x="290" y="180" width="130" height="88" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="300" y="200" font-size="13" font-weight="500" fill="#1f2328">9</text>
+<rect x="290" y="180" width="130" height="88" rx="8" fill="#ddf4ff" stroke="#0969da"/>
+<text x="300" y="200" font-size="13" font-weight="700" fill="#1f2328">9</text>
 </g>
 <g opacity="1">
 <rect x="424" y="180" width="130" height="88" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
